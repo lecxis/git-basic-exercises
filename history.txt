@@ -1,0 +1,321 @@
+    1  git config --global user.name "Olalekan Olonilua"
+    2  git config --global user.email oloniluaolalekan@gmail.com
+    3  git config --list
+    4  cd
+    5  /
+    6  ~
+    7  cd ~
+    8  ~
+    9  ls
+   10  ls
+   11  ./documents
+   12  ls
+   13  cd documents
+   14  ls
+   15  cd programming
+   16  ls
+   17  cd booust
+   18  ls
+   19  cd task
+   20  ls
+   21  git init
+   22  git status
+   23  git add index.html
+   24  git status
+   25  git commit
+   26  cd
+   27  ls
+   28  cd documents/programming
+   29  cd booust
+   30  ls
+   31  cd task
+   32  git status
+   33  git commit
+   34  git status
+   35  ls
+   36  status
+   37  git status
+   38  git remote add origin https://gitlab.com/lecxis106/Booust-task.git
+   39  git push origin master
+   40  git push origin master
+   41  git remote add origin https://gitlab.com/lecxis106/Booust-task.git
+   42  git push origin master
+   43  git push origin master
+   44  git push origin master
+   45  git push origin master
+   46  git remote add origin https://gitlab.com/lecxis106/Booust-task.git
+   47  git push origin master
+   48  #
+   49  ~
+   50  cd documents/programming
+   51  cd booust
+   52  cd task
+   53  git status
+   54  git remote add origin https://gitlab.com/lecxis106/Booust-task.git
+   55  git push origin master
+   56  git config --global http.emptyAuth true
+   57  git push origin master
+   58  git config credential.helper
+   59  git config --system --unset credential.helper
+   60  git push origin master
+   61  git remote add origin https://gitlab.com/lecxis106/Booust-task.git
+   62  git remote rm origin
+   63  git remote add origin https://gitlab.com/lecxis106/Booust-task.git
+   64  git push origin master
+   65  git push origin master
+   66  git push -u origin master
+   67  git config --global http.emptyAuth true
+   68  git push origin master
+   69  git config credential.helper
+   70  git config --system --unset credential.helper
+   71  ssh-keygen -t rsa -C "oloniluaolalekan@gmail.com" -b 4096
+   72  cat ~/.ssh/id_rsa.pub | clip
+   73  ~/.ssh/id_rsa.pub | clip
+   74  cat ~/documents/programming/booust/task /.ssh/id_rsa.pub | clip
+   75  cat ~/.ssh/lexciskey | clip
+   76  cat: /c/Users/lekan/documents/programming/booust/task/.ssh/lexciskey | clip
+   77   cat: ~/c/Users/lekan/documents/programming/booust/task/.ssh/lexciskey | clip
+   78   cat: ~/c/Users/lekan/documents/programming/booust/task/.ssh/lexciskey | clip
+   79  cat ~/.ssh/lecxiskey.pub | clip
+   80  ~/c/Users/lekan/documents/programming/booust/task/.ssh/lexciskey | clip
+   81  cat ~/.ssh/id_rsa.pub 
+   82  cat ~/.ssh/lexcis.pub
+   83  cat .ssh/id_rsa.pub | bcopy
+   84  cat ~/.ssh/id_rsa.pub > /dev/clipboard
+   85  cat ~/.ssh/id_rsa.pub
+   86  ssh-keygen -t rsa -C "your.email@example.com" -b 4096
+   87  ssh-keygen -t rsa -C "oloniluaolalekan@gmail.com" -b 4096
+   88  cat ~/.ssh/id_rsa.pub | clip
+   89  $ cat ~/.ssh/id_rsa.pub | clip
+   90  cat ~/.ssh/id_rsa.pub | clip
+   91  ssh -T git@example.comexample.com
+   92  ssh -T git@gitlab.com/lecxis106
+   93   ssh -T git@gitlab.com
+   94  git push origin master
+   95  git remote add origin git@gitlab.com:lecxis106/Booust-task.git
+   96  git push -u origin master
+   97  git remote add origin https://gitlab.com/lecxis106/Booust-task.git
+   98  git remote rm origin https://gitlab.com/lecxis106/Booust-task.git
+   99  git remote add origin git@gitlab.com:lecxis106/Booust-task.git
+  100  git add .
+  101  git commit -m "Initial commit"
+  102  git push -u origin master
+  103  git push -u origin master
+  104  git remote rm origin
+  105  git remote add origin git@gitlab.com:lecxis106/Booust-task.git
+  106  git push -u origin master
+  107  cd dir
+  108  ls
+  109  dir
+  110  cd..
+  111  cd ..
+  112  git clone git@gitlab.com:lecxis106/HomeStudy.git
+  113  cd homestudy
+  114  ls
+  115  ~
+  116  cd documents/programming
+  117  cd booust
+  118  ls
+  119  cd HomeStudy
+  120  git status
+  121  git add participants.csv
+  122  git status
+  123  git commit -m "added my credentials"
+  124  git status
+  125  git push
+  126  ~
+  127  cd documents/programming
+  128  cd booust
+  129  cd task
+  130  git status
+  131  git status
+  132  git add border-collie.jpg
+  133  git status
+  134  git add index.html
+  135  git status
+  136  git commit -m "Added a banner to html and some cool feature"
+  137  git push heroku master
+  138  git push
+  139  ~
+  140  cd documents/programming
+  141  git status
+  142  cd Udacity Scholarship
+  143  cd Udacity Scholarship
+  144  dir
+  145  cd Udacity\ Scholarship
+  146  dir
+  147  cd project-pixel-art-maker-starter-master
+  148  git status
+  149  git int
+  150  git init
+  151  git status
+  152  git remote add github https://github.com/lecxis/alc-pixelartproject.git
+  153  git add.
+  154  git add .
+  155  git status
+  156  git commit -m "First Commit"
+  157  git push github
+  158  git push -u github master
+  159  cd..
+  160  cd..cd..dir
+  161  cd
+  162  cd documents/programming
+  163  dir
+  164  cd booust
+  165  dir
+  166  cd Week\ 5
+  167  git status
+  168  git init
+  169  cd../
+  170  cd..dir
+  171  cd..cd..dir
+  172  cd..
+  173  cd ..
+  174  cd task
+  175  mkdir Week Five
+  176  cd Week/ Five
+  177  cd Week / Five
+  178  dir
+  179  mkdir Week/ Five
+  180  mkdir Week\ Five
+  181  cd Week\ Five
+  182  cd ~
+  183  touch .bash_profile
+  184  vim .bash_profile
+  185  mongo --version
+  186  ls
+  187  ls /data
+  188  ls /videos
+  189  ls /documents
+  190  ls
+  191  ls /
+  192  pwd
+  193  mkdir Learning_unix
+  194  ls
+  195  cd Learning_unix
+  196  mkdir Outer_directory
+  197  cd Outer_directory
+  198  mkdir Inner_directory
+  199  cd Inner_directory
+  200  mkdir -p Outer_directory/Inner_directory
+  201  cd /
+  202  ls
+  203  ls
+  204  ls /
+  205  ls
+  206  cd Learning_unix
+  207  dir
+  208  cd ..
+  209  ls
+  210  cd ..
+  211  cd ../..
+  212  ls
+  213  ls
+  214  cd Learning_unix/
+  215  cd ..
+  216  ls
+  217  cd documents
+  218  cd /desktop
+  219  cd /Desktop
+  220  cd ..
+  221  cd desktop/
+  222  cd ../../../documents
+  223  cd /
+  224  pwd
+  225  cd ~
+  226  pwd
+  227  cd
+  228  pwd
+  229  cd documents/
+  230  cd ~/desktop
+  231  cd ~/Learning_unix/Outer_directory
+  232  ls ../../
+  233  ~/Learning_unix
+  234  cd ~/Learning_unix
+  235  ls -l /desktop
+  236  ls -l /home
+  237  cd ..
+  238  ls -l /documents
+  239  ~/Learning_unix
+  240  cd ~/Learning_unix
+  241  ls -l /home
+  242  ls -l /lekan
+  243  ls -l /Outer_directory/
+  244  ls
+  245  ls -l
+  246  man ls
+  247   man cd
+  248  cd /Outer_directory
+  249  cd Outer_directory
+  250  rmdir Inner_directory/
+  251  rmdir Inner_directory
+  252  cd Inner_directory
+  253  cd Outer_directory
+  254  rmdir Inner_directory
+  255  cd ..
+  256  rmdir Outer_directory
+  257  cd ..
+  258  rmdir Inner_directory
+  259  cd..
+  260  cd ..
+  261  cd ..
+  262  cd Learning_unix/
+  263  touch heaven.txt
+  264  ls
+  265  cd documents
+  266  cd programming\umuzi/ tilde
+  267  cd programming
+  268  ls
+  269  ls -a
+  270  cd 'umuzi tilde'/
+  271  dir
+  272  ls -a
+  273  cd git-basic-exercises
+  274  ls -a
+  275  ls -a
+  276  ls
+  277  ls -a
+  278  touch README.md
+  279  ls -a
+  280  git status
+  281  git log
+  282  git add README.md
+  283  git status
+  284  git rm --cashed README.md
+  285  git rm --cached README.md
+  286  git status
+  287  git add README.md
+  288  git commit -m "initial commit"
+  289  git log
+  290  q
+  291  nano README.md
+  292  cat README.md
+  293  git status
+  294  git add README.md
+  295  git status
+  296  git commit -m "second commit"
+  297  nano README.md
+  298  git status
+  299  git add README.md
+  300  git commit -m "third commit"
+  301  git status
+  302  git log
+  303  cat README.md
+  304  git status
+  305  git log
+  306  git checkout main
+  307  git checkout master
+  308  cat README.md
+  309  git branch
+  310  git branch
+  311  nano milkshakes.md
+  312  git status
+  313  git add milkshakes.md
+  314  git commit -m "added initial flavours"
+  315  git log
+  316  git checkout master
+  317  git branch history
+  318  git checkout history
+  319  git log
+  320  git branch
+  321  history > history.txt
